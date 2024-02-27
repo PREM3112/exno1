@@ -21,6 +21,26 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+![alt text](ds1-1.png)
+![alt text](ds2-1.png) 
+![alt text](ds3-1.png)
+![alt text](ds4-1.png)
+![alt text](ds5-1.png)
+![alt text](ds6-1.png)
+![alt text](ds7-1.png) 
+![alt text](ds8-1.png) 
+![alt text](ds9-1.png) 
+![alt text](ds10-1.png) 
+![alt text](ds11-1.png) 
+![alt text](ds12-1.png) 
+![alt text](ds13-1.png) 
+![alt text](ds14-1.png) 
+![alt text](ds15-1.png) 
+![alt text](ds16-1.png) 
+![alt text](ds17-1.png) 
+![alt text](ds18-1.png) 
+![alt text](ds19-1.png) 
+![alt text](ds20-1.png) 
+![alt text](ds21-1.png)          
 # Result
-          <<include your Result here>>
+thus the program is executed successfully.
